@@ -77,8 +77,3 @@ body {
   }
 }
 
-@media (min-width:576px) {
-  .sidebar {
-    width: 500px;
-  }
-}
